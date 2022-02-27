@@ -2,8 +2,12 @@
 <h3 align="center">Um estudante que ama aprender coisas novas</h3>
 
 <br/>
-<p align="center">
+
+<p>
+
 <img align="right" img src="https://user-images.githubusercontent.com/100509300/155876422-b23f0243-e75b-480b-bf85-31e02e9e7054.png">
+
+  
 
 - 🔭 **Faço automações contábeis na Dresden Assessoria**
 
@@ -17,21 +21,12 @@
 
 - 🌎 **Open to Work & Opportunities**
 
+<br/>
+ <a href="https://linkedin.com/in/gustavo-almeida-monteiro-08918122b" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-almeida-monteiro-08918122b" height="45" width="60" /></a>
+<a href="https://instagram.com/gustavo_almont" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavo_almont" height="45" width="60" /></a>
 </p>
-<p align="right">
-<br/>
-<a href="https://linkedin.com/in/gustavo-almeida-monteiro-08918122b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-almeida-monteiro-08918122b" height="45" width="60" /></a>
-<a href="https://instagram.com/gustavo_almont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavo_almont" height="45" width="60" /></a>
-<br/>
-</p>
-
-
-
-
-
-<br/>
-<br/>
-
+    
+<br>
 
 <h3 align="left">Habilidades e ferramentas:</h3>
 
