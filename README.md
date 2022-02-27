@@ -18,6 +18,8 @@
 
 - 🌎 **Open to Work & Opportunities**
 
+
+
 <br/>
 
 
@@ -66,10 +68,11 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoalmont&" alt="gustavoalmont" /></p>
 
-<h3 align="center">Redes Sociais:</h3>
+<h3 align="right">Redes Sociais:</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/gustavo-almeida-monteiro-08918122b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-almeida-monteiro-08918122b" height="45" width="60" /></a>
 <a href="https://instagram.com/gustavo_almont" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavo_almont" height="45" width="60" /></a>
 </p>
+
 
