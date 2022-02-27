@@ -71,6 +71,6 @@
 
 
 
-<p align="center"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoalmont&show_icons=true&locale=en&layout=compact" alt="gustavoalmont"/>
-<img align="" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoalmont&" alt="gustavoalmont" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoalmont&show_icons=true&locale=en&layout=compact" alt="gustavoalmont"/>
+<img align="left" height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoalmont&" alt="gustavoalmont" /></p>
 
