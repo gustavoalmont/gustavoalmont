@@ -22,6 +22,9 @@
 - 🌎 **Open to Work & Opportunities**
 
 <br/>
+<br/>
+<br/>
+<br/>
  <a href="https://linkedin.com/in/gustavo-almeida-monteiro-08918122b" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-almeida-monteiro-08918122b" height="45" width="60" /></a>
 <a href="https://instagram.com/gustavo_almont" target="blank"><img align="right" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gustavo_almont" height="45" width="60" /></a>
 </p>
