@@ -64,7 +64,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoalmont&show_icons=true&locale=en&layout=compact" alt="gustavoalmont" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoalmont&" alt="gustavoalmont" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoalmont&" alt="gustavoalmont" /></p>
 
 <h3 align="center">Redes Sociais:</h3>
 
