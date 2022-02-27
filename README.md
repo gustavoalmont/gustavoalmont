@@ -72,5 +72,5 @@
 
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gustavoalmont&show_icons=true&locale=en&layout=compact" alt="gustavoalmont"/>
-<img align="left" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoalmont&" alt="gustavoalmont" /></p>
+<img align="left" height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=gustavoalmont&" alt="gustavoalmont" /></p>
 
